@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jericho-art
-- 👀 I’m interested in ASIC verification
-- 🌱 I’m currently learning system verilog, c++ and UVM methodology.
-- 💞️ I’m looking to collaborate on verification strageties, some project in cpp which charms me.
+- 👀 I’m interested in ASIC Design
+- 🌱 I’m currently doing CPU Design based on RISC-V with power efficiency
 
 <!---
 Jericho-art/Jericho-art is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
