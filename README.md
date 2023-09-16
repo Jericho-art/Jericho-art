@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jericho-art
-- 👀 I’m interested in ASIC Design
+- 👀 I’m working in ASIC Design
 - 🌱 I’m currently doing CPU Design based on RISC-V with power efficiency
 
 <!---
